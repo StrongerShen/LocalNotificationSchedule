@@ -1,0 +1,4 @@
+LocalNotificationSchedule
+=========================
+
+practice for LocalNotification
